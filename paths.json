@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/:/",
-    "/content/sas-forms/headers:/.helix/headers.json"
+    "/content/arbory-xwalk/headers:/.helix/headers.json"
   ],
   "includes": [
     "/content/",
