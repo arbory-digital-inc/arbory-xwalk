@@ -1,7 +1,10 @@
 {
   "mappings": [
-    "/content/arbory-xwalk/:/",
-    "/content/arbory-xwalk/configuration:/.helix/config.json",
-    "/content/arbory-xwalk/metadata:/metadata.json"
+    "/:/",
+    "/content/sas-forms/headers:/.helix/headers.json"
+  ],
+  "includes": [
+    "/content/",
+    "/content/dam/"
   ]
 }
